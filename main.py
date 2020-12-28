@@ -14,6 +14,7 @@ db = []
 
 #test edit line 1
 # changes made after clonging
+#adding third line
 class City(BaseModel):
     name: str
     timezone: str
