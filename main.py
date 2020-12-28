@@ -13,7 +13,7 @@ app = FastAPI()
 db = []
 
 #test edit line 1
-
+# changes made after clonging
 class City(BaseModel):
     name: str
     timezone: str
