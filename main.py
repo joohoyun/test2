@@ -12,6 +12,8 @@ app = FastAPI()
 
 db = []
 
+#test edit line 1
+
 class City(BaseModel):
     name: str
     timezone: str
